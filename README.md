@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-//<title>Coding</title>
-</head>
 <body>
 <h1>My First Website</h1>
 <h2>How I Did it</h2>
